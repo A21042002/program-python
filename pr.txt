@@ -1,0 +1,3 @@
+hello we are writing in code that will show in text file
+hiii we are writing in code that will show in text file
+show in text file

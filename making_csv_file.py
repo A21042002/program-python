@@ -1,0 +1,5 @@
+f1 = open ("making_csv_file.csv","w")
+f1.write("Std_name ,city, course, mobile\n")
+f1.write("abhishek, ahmedabad, bsc, 153465445\n")
+f1.write("abhishek, ahmedabad, bsc, 153465445\n")
+f1.write("abhishek, ahmedabad, bsc, 153465445\n")
