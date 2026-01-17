@@ -1,0 +1,9 @@
+{
+"params":{
+
+    "local_server" : true,
+    "local_uri": "mysql+pymysql://root:@localhost/empdb",
+    "prod_uri": "mysql+pymysql://root:@localhost/empdb",
+    "title_name" : "What name you want"
+}
+}
